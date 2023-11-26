@@ -3,6 +3,8 @@
 
 # SensorCube
 
+![](Doc/images/004_Overview-temp.png)
+
 SensorCube is a hardware and software toolbox for localization, perception, and navigation of all-source sensors.
 
 This project is jointly promoted and maintained by the MSP Group of Shanghai Jiao Tong University and Shanghai Slamtec Co., LTD.
@@ -43,6 +45,24 @@ Prototype in test ↓
 
 All sensors' data was synchronized by hardware and software, except RICOH camera.
 
+# Hardware architecture
+
+![](Doc/images/005_HW.png)
+
+Detailed description wille be supplemented later.
+
+# Supported Platforms
+
+![](Doc/images/006_Applications.png)
+
+Detailed description wille be supplemented later.
+
+# Internal Structure
+
+![](Doc/images/007_Structure.png)
+
+Detailed description wille be supplemented later.
+ 
 # Maintainer
 
 Please note that the open source material is still under development.  If you have any questions to consult, please contact Liu Guoqing ( guoqing_liu@sjtu.edu.cn ) , thanks.
